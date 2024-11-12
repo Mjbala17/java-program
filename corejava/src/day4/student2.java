@@ -28,7 +28,7 @@ package day4;
 
 	    @Override
 	    public void codingPractice() {
-	        System.out.println("Hi Prakash do the practice at " + "wakeuptime");
+	        System.out.println("Hi bala do the practice at " + "wakeuptime");
 	    }
 
 		@Override

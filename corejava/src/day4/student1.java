@@ -27,7 +27,7 @@ public class student1 implements BeACoder {
 
     @Override
     public void codingPractice() {
-        System.out.println("Hi Praveen do the practice at " + "weakuptime");
+        System.out.println("Hi bala do the practice at " + "weakuptime");
     }
 
 	@Override
